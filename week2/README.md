@@ -8,6 +8,9 @@
 # EDA 範例
 - 10702-mid-term.ipynb
 
+# Datasaurus visulization in Python
+- datasaurus.ipynb
+
 # Standardization 範例
 - 對照吳老師投影片3第52頁
 - std_example.ipynb
